@@ -1,3 +1,6 @@
+## API endpoint to POST data 
+https://bitespeed-6fbp.onrender.com/identify
+
 About 
 
 Created a backend service that resolves customer identity by linking contacts sharing the same email or phone number.
